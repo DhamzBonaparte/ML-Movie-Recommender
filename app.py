@@ -19,8 +19,7 @@ for filename in files_to_download:
             repo_id="Dhamz10/movie-recommender-similarity",
             filename=filename,
             local_dir=".",
-            repo_type='dataset',
-            local_dir_use_symlinks=False,
+            repo_type='dataset'
         )
 
 movies_list = pickle.load(open("movies_dict.pkl", "rb"))
