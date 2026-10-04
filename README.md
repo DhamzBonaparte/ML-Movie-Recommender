@@ -2,8 +2,6 @@
 
 A content-based movie recommendation web application built with **Python**, **Streamlit**, and **Scikit-Learn**. It suggests similar movies based on user selection and fetches real-time movie posters using the **TMDB API**.
 
-🔗 **Live Demo:** [https://ml-movie-recommender-muum.onrender.com/](https://ml-movie-recommender-muum.onrender.com/)
-
 ---
 
 ## 🚀 Features
